@@ -1,5 +1,4 @@
 # Synth Mind
 
 ## Memo
-- Topology count.
-  - Sort it at the time of use.
+- Topology count. Sort it at the time of use.
